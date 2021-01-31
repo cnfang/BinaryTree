@@ -33,6 +33,9 @@ $ conda install pytest
 // check if package installed successfully
 $ pytest --version
 This is pytest version 5.2.1, imported from /$ANACONDA_PATH/envs/my_env/lib/python3.6/site-packages/pytest.py
+
+// change to your project directory and start testing by executing
+$ pytest
 ```
 
 Step 2: create Eclipse project and change project setting
